@@ -35,7 +35,7 @@ python main.py
 
 When you run the script, you will be presented with a menu.
 1. **Convert Normal File / Folder to Image:** Enter `1`, then provide the path to the file/folder and the desired output image name.
-2. **Create Encrypted File / Folder to Image:** Enter `2`, provide the path, output name, and a secure encryption key to encrypt the data before steganography.
+2. **Create Encrypted File / Folder** Enter `2`, provide the path, output name, and a secure encryption key to encrypt the data before steganography.
 3. **Extract File / Folder from Image:** Enter `3`, provide the path to the image. If the image is encrypted, you will be prompted for the password to extract and decrypt the original data.
 4. **Quit:** Enter `q` to exit the tool.
 
